@@ -1,0 +1,15 @@
+# ninja log v5
+2	1543	6817631380724243	CMakeFiles/LinkedListDoneRight.dir/main.cpp.obj	ae4dd7a770349fa4
+1549	2243	6817631388067486	CMakeFiles/LinkedListDoneRight.dir/LinkedListDone.cpp.obj	dbe3e44719d572e1
+2244	2629	6817631391817334	LinkedListDoneRight.exe	e03b20715abc397
+15	806	6817632479750784	CMakeFiles/LinkedListDoneRight.dir/main.cpp.obj	ae4dd7a770349fa4
+807	1419	6817632485844119	CMakeFiles/LinkedListDoneRight.dir/LinkedListDone.cpp.obj	dbe3e44719d572e1
+1420	1764	6817632489125128	LinkedListDoneRight.exe	e03b20715abc397
+12	882	6817686863278872	CMakeFiles/LinkedListDoneRight.dir/LinkedListDone.cpp.obj	dbe3e44719d572e1
+883	1509	6817686869528434	CMakeFiles/LinkedListDoneRight.dir/main.cpp.obj	ae4dd7a770349fa4
+1510	1852	6817686872809461	LinkedListDoneRight.exe	e03b20715abc397
+7	1373	6817687071900778	CMakeFiles/LinkedListDoneRight.dir/LinkedListDone.cpp.obj	dbe3e44719d572e1
+1374	1732	6817687075494277	LinkedListDoneRight.exe	e03b20715abc397
+7	1109	6817700908511732	CMakeFiles/LinkedListDoneRight.dir/main.cpp.obj	ae4dd7a770349fa4
+1111	1838	6817700915855128	CMakeFiles/LinkedListDoneRight.dir/LinkedListDone.cpp.obj	dbe3e44719d572e1
+1840	2179	6817700919135993	LinkedListDoneRight.exe	e03b20715abc397

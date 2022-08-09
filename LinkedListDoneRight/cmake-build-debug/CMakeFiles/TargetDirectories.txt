@@ -1,0 +1,3 @@
+C:/Users/VALLE/CLionProjects/LinkedListDoneRight/cmake-build-debug/CMakeFiles/LinkedListDoneRight.dir
+C:/Users/VALLE/CLionProjects/LinkedListDoneRight/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VALLE/CLionProjects/LinkedListDoneRight/cmake-build-debug/CMakeFiles/rebuild_cache.dir
